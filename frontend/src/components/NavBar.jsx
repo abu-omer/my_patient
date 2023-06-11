@@ -19,7 +19,7 @@ const Navbar = () => {
           component="div"
           sx={{ fontSize: "15px", flexGrow: 1 }}
         >
-          logo - master
+          logo - first
         </Typography>
         <Box variant="h6" component="div">
           <ul style={{ listStyle: "none", display: "flex" }}>
